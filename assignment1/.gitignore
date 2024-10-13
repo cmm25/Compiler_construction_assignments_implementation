@@ -1,0 +1,17 @@
+# Ignore .vscode directory
+.vscode/
+
+# Ignore all text files
+*.txt
+
+# Ignore .exe files
+*.exe
+
+# Optional: Ignore other common text file extensions
+*.log
+*.md
+*.rtf
+
+# Optional: Ignore binary files that often accompany executables
+*.dll
+*.pdb
