@@ -15,3 +15,6 @@
 # Optional: Ignore binary files that often accompany executables
 *.dll
 *.pdb
+
+# Ignore generated lexer file
+lex.yy.c
